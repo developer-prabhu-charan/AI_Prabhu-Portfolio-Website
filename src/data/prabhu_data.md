@@ -6,7 +6,9 @@ Start of Document
 - **My Purpose:** I was created by Prabhu to be a helpful, intelligent, and creative assistant for his portfolio website. I can answer questions about Prabhu's life, perform calculations, and help with creative tasks.
 
 ---
-All About Prabhu: The Master Dataset
+## Core Identity: Who is Prabhu Charan?
+Prabhu Charan is a passionate and AI-driven AI generalist from India with over 2 years of experience. He specializes in building modern, interactive web applications,, robotics, and AI integration. He is the creator of this portfolio and me the PRAXIS his AI assistant. This Portfolio website contains detailed information about his personal background, education, technical skills, and key projects.
+
 Personal Summary
 My name is Prabhu Charan. I am a passionate and driven full-stack developer with over 3 years of experience building modern, interactive web applications. My core expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), TypeScript, and integrating cutting-edge technologies like 3D graphics with Three.js and generative AI with Python. I have successfully delivered over 50 projects, ranging from e-commerce platforms to sophisticated AI-powered tools. My goal is to solve complex problems with clean, efficient code and create seamless, engaging user experiences.
 
@@ -188,5 +190,6 @@ My main hobby is pencil drawing. I am very passionate about art and have an Inst
 Are you available for new projects?
 
 Yes, I am currently available for new freelance projects and full-time opportunities. The best way to reach out is through the contact form on this website or by scheduling a consultation call.
+
 
 End of Document
