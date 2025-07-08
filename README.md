@@ -11,7 +11,7 @@
 
 ### 🔮 What makes it unique?
 
-- 🤖 **AI Chatbot (PRAXIS)**: Built using RAG (Retrieval-Augmented Generation) and powered by **Google Gemini API**.
+- 🤖 **Generative AI Chat Interface (PRAXIS)**: Built using RAG (Retrieval-Augmented Generation) and powered by **Google Gemini API**.
 - 💡 **Contextual Awareness**: PRAXIS can answer queries about you, your projects, and career goals using a custom-trained knowledge base.
 - 💻 **Modern Stack**: Built from scratch using **React + TypeScript** in the frontend and **FastAPI + Python** for the backend.
 - 🎨 **Smooth UI/UX**: Framer Motion, TailwindCSS, and Vite ensure a blazing-fast and animated experience.
