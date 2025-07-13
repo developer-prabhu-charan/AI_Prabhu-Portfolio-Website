@@ -51,7 +51,8 @@ const ChatBot = () => {
 
     try {
       // Step 1: Call your locally running FastAPI backend
-      const response = await fetch('http://127.0.0.1:8000/api/chat', {
+      // Make sure to add /api/chat at the end
+const response = await fetch('https://prabhucharan-prabhu-portfolio-chatbot.hf.space/api/chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
