@@ -84,7 +84,7 @@ const MilestoneItem = ({ milestone }: { milestone: Milestone }) => {
         variants={variants}
         initial="hidden"
         animate={inView ? 'visible' : 'hidden'}
-        className={`w-full md:w-5/12 flex ${milestone.side === 'left' ? 'md:justify-end pr-2' : 'md:justify-start pl-2'}`}
+        className={`w-4/12 ml-auto md:w-5/12 flex ${milestone.side === 'left' ? 'md:ml-20 mr-auto md:justify-end md:pr-12' : 'md:mr-20 ml-auto md:justify-start md:pl-12'}`}
       >
         <div className={`w-full md:max-w-sm ${milestone.side === 'left' ? 'md:text-right' : 'md:text-left'}`}>
           <div className="p-6 rounded-xl bg-gradient-to-br from-secondary/10 to-accent/10 border border-secondary/20 shadow-lg">
@@ -147,7 +147,7 @@ const Stats = () => {
       <div className="absolute top-0 left-0 w-72 h-72 bg-secondary/10 rounded-full blur-3xl animate-pulse"></div>
       <div className="absolute bottom-0 right-0 w-96 h-96 bg-accent/10 rounded-full blur-3xl animate-pulse delay-1000"></div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      <div className="px-4 sm:px-6 lg:px-8 relative z-10">
         <motion.div
           ref={ref}
           variants={containerVariants}

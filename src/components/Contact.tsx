@@ -84,7 +84,7 @@ const Contact = () => {
 
   return (
     <section id="contact" className="py-20 relative">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="px-4 sm:px-6 lg:px-8">
         <motion.div
           ref={ref}
           variants={containerVariants}
@@ -128,7 +128,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <div className="text-text-secondary text-sm font-manrope">{info.label}</div>
-                      <div className="font-inter font-medium group-hover:text-accent transition-colors duration-300">
+                      <div className="font-inter font-medium group-hover:text-accent transition-colors duration-300 break-all">
                         {info.value}
                       </div>
                     </div>

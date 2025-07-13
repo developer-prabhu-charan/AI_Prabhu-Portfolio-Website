@@ -19,7 +19,7 @@ const Hero = () => {
         <Scene3D />
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      <div className="pt-32 lg:pt-0 px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Content */}
           <motion.div

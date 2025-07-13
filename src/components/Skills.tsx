@@ -121,7 +121,7 @@ const Skills = () => {
 
   return (
     <section id="skills" className="py-20 bg-[#0a0f2e] text-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="px-4 sm:px-6 lg:px-8">
         <motion.div
           ref={ref}
           variants={containerVariants}

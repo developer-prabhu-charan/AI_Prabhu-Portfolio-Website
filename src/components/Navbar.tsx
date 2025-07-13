@@ -43,7 +43,7 @@ const Navbar = () => {
       }`}
     >
       <div className="w-full overflow-hidden">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             {/* Logo / Name */}
             <motion.div
@@ -51,9 +51,9 @@ const Navbar = () => {
               className="flex-shrink-0 cursor-pointer"
               onClick={() => scrollToSection('#home')}
             >
-              <span className="text-2xl font-poppins font-bold bg-gradient-to-r from-secondary to-accent bg-clip-text text-transparent">
-                Prabhu Charan Jerripothula
-              </span>
+              <span className="text-xl md:text-2xl font-poppins font-bold bg-gradient-to-r from-secondary to-accent bg-clip-text text-transparent">
+                    Prabhu Charan Jerripothula
+                  </span>
             </motion.div>
 
             {/* Desktop Menu */}
