@@ -156,7 +156,7 @@ const response = await fetch('https://prabhucharan-prabhu-portfolio-chatbot.hf.s
                   <Bot className="h-4 w-4 text-white" />
                 </div>
                 <div>
-                  <h3 className="font-poppins font-semibold text-text-primary">AI Assistant</h3>
+                  <h3 className="font-poppins font-semibold text-text-primary">PRAXIS</h3>
                   <p className="text-xs text-text-secondary">Always here to help</p>
                 </div>
                 <div className="ml-auto">
